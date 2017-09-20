@@ -91,9 +91,5 @@ LOGIN_URL='/login/'
 LOGOUT_URL='/logout/'
 LOGIN_REDIRECT_URL='/'
 
-STATICFILES_DIRS  =  ( 
-    "/home/jjosinoms/projetosDjango/connectedin/blog/static/css" , 
-    "/home/jjosinoms/projetosDjango/connectedin/perfis/static" ,
-    )
 
 STATIC_ROOT  =  "/var/www/connectedin/static/"
